@@ -26,3 +26,7 @@ if Area_Circulo < Area_Pint:
 elif Area_Circulo > Area_Pint:
     print 'El Circulo NO puede ser pintado'
 
+#RESULTADOS
+#El Cuadrado SI puede ser pintado
+#El Rectangulo NO puede ser pintado
+#El Circulo SI puede ser pintado
