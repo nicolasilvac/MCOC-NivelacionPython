@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import math
-#Determinacion de figuras geometricas y su area es apropiada para ser pintada
+#Determinacion de figuras geometricas y si su area es apropiada para ser pintada
 
 Area_Pint = 40 #m2, area que puede pintar un tarro de pintura
 
