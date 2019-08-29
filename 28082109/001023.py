@@ -99,7 +99,7 @@ print a.sum(axis=1) #suma las columnas con respecto a 1 eje
 
 data = np.loadtxt('data.txt', dtype=np.uint8, delimiter=',', skiprows=1)
 print data
-#[8 7 7 5 4 3 2] imprime lo escrito en el txt en una lista delimitadas por una coma
+#[8 7 7 5 4 3 2] imprime lo escrito en el txt en una lista delimitadas por una coma, saltandose la primera fila (skiprows =1)
 
 a = np.arange(10)
 print a
